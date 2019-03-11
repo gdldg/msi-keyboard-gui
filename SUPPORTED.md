@@ -20,5 +20,6 @@
 | Manjaro 18.0   | 4.19.0-4-MANJARO       | 11.0.0       | 6.4.1       | 1.0.22-1       | MSI GE62 6QD Apache Pro    |
 | Ubuntu 18.04.1 | 4.15.0-39-generic      | 8.10.0       | 3.5.2       | none           | MSI GT70 2PE Dominator Pro |
 | Ubuntu 18.04.1 | 4.15.0-44-generic      | 10.15.0      | 6.4.1       | 2:1.0.21-2     | MSI GS63 7RE Stealth Pro   |
+| Arch Linux     | 5.0.0-arch1-1-ARCH     | 11.8.0       | 6.5.0       | 1.0.22-1       | MSI GT72 6QD Dominator     |
 
 [1]: https://wiki.ubuntu.com/Kernel/LTSEnablementStack#Ubuntu_16.04_LTS_-_Xenial_Xerus
